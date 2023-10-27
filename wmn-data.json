@@ -5430,8 +5430,8 @@
        },
        {
         "name" : "TikTok",
-        "uri_check" : "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@{account}",
-        "uri_pretty" : "https://www.tiktok.com/@{account}?lang=en",
+        "uri_check" : "https://www.tiktok.com/@{account}"",
+        "uri_pretty" : "https://www.tiktok.com/@{account}",
         "e_code" : 200,
         "e_string" : "",
         "m_string" : "",
