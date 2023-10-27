@@ -1632,16 +1632,6 @@
         "cat" : "xx NSFW xx"
        },
        {
-        "name" : "Onlyfans",
-        "uri_check" : "https://extralunchmoney.com/user/{account}",
-        "e_code" : 200,
-        "e_string" : "Public Profile Page",
-        "m_string" : "Closed Profile Page",
-        "m_code" : 404,
-        "known" : ["u209614130"],
-        "cat" : "xx NSFW xx"
-       },
-       {
         "name" : "Eyeem",
         "uri_check" : "https://www.eyeem.com/u/{account}",
         "e_code" : 200,
@@ -5443,8 +5433,8 @@
         "uri_check" : "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@{account}",
         "uri_pretty" : "https://www.tiktok.com/@{account}?lang=en",
         "e_code" : 200,
-        "e_string" : "author_url",
-        "m_string" : "Something went wrong",
+        "e_string" : "",
+        "m_string" : "",
         "m_code" : 404,
         "known" : ["gordonramsayofficial", "pookiebear73"],
         "cat" : "social"
