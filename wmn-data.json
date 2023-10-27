@@ -865,8 +865,8 @@
         "name" : "cash.app",
         "uri_check" : "https://cash.app/${account}",
         "e_code" : 200,
-        "e_string" : " on Cash App</title>",
-        "m_string" : "The page you are looking for can't be found",
+        "e_string" : "",
+        "m_string" : "",
         "m_code" : 404,
         "known" : ["Jill", "john"],
         "cat" : "finance"
