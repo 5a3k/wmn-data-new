@@ -5430,7 +5430,7 @@
        },
        {
         "name" : "TikTok",
-        "uri_check" : "https://www.tiktok.com/@{account}"",
+        "uri_check" : "https://www.tiktok.com/@{account}",
         "uri_pretty" : "https://www.tiktok.com/@{account}",
         "e_code" : 200,
         "e_string" : "",
